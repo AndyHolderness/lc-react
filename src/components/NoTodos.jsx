@@ -57,7 +57,9 @@ export default function NoTodos() {
           </clipPath>
         </defs>
       </svg>
-      <p>Add some todos...</p>
+      <p>
+        <h2>Hey Lazy Arse!! Add a ToDo</h2>
+      </p>
     </div>
   );
 }

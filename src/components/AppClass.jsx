@@ -51,7 +51,7 @@ export default class AppClass extends Component {
             <input
               type="text"
               className="todo-input"
-              placeholder="What do you need to do?"
+              placeholder="What do you want to do?"
             />
           </form>
 

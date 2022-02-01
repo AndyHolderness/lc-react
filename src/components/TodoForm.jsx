@@ -38,7 +38,7 @@ function TodoForm() {
         value={todoInput}
         onChange={handleInput}
         className="todo-input"
-        placeholder="What do you need to do?"
+        placeholder="Start typing todo's in here"
       />
     </form>
   );

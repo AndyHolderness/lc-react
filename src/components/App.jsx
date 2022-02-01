@@ -58,7 +58,7 @@ function App() {
     >
       <div className="todo-app">
         <div className="name-container">
-          <h2>What is your name?</h2>
+          <h2>What is your name, you idiot?</h2>
           <form action="#">
             <input
               type="text"
@@ -76,10 +76,10 @@ function App() {
             classNames="slide-vertical"
             unmountOnExit
           >
-            <p className="name-label">Hello, {name}</p>
+            <p className="name-label">Hello, {name} , btw you are a ballbag</p>
           </CSSTransition>
         </div>
-        <h2>Todo App</h2>
+        <h2>Andy's Offensive Todo App</h2>
         <TodoForm />
 
         <SwitchTransition mode="out-in">

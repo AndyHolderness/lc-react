@@ -7,22 +7,22 @@ export default function NavigationBar() {
       <ul>
         <li>
           <NavLink to="/" activeClassName="active" exact>
-            Home
+            Todo List
           </NavLink>
         </li>
         <li>
           <NavLink to="/about" activeClassName="active" exact>
-            About
+            About Nowt
           </NavLink>
         </li>
         <li>
           <NavLink to="/contact" activeClassName="active" exact>
-            Contact
+            Don't Contact Me
           </NavLink>
         </li>
         <li>
           <NavLink to="/blog" activeClassName="active">
-            Blog
+            Not a Blog
           </NavLink>
         </li>
       </ul>
