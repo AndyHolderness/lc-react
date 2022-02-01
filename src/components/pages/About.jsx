@@ -8,6 +8,7 @@ export default function About() {
         Checkout out this page never again as it has no useful information at
         all
       </p>
+      <p>TEST 2</p>
     </div>
   );
 }
